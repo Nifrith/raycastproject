@@ -1,4 +1,4 @@
-# Gloables-Cea - manejo de variables globales [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/es)
+# Globales-Cea - manejo de variables globales [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/es)
 
 ## Desarrollo de actividad
 
